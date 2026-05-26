@@ -86,15 +86,14 @@ EXPO_PUBLIC_FIREBASE_APP_ID=your_app_id
 
 Download the latest APK here:
 
-https://expo.dev/accounts/aaryan02/projects/ai-pocket-agent/builds/5a8da43c-4c4f-4741-afc9-d59841dce783
+https://expo.dev/accounts/aaryan02/projects/ai-pocket-agent/builds/7f254be9-aac9-4206-b457-f6ec5f3dc9eb
 
 ---
 
 ## 📸 Screenshots
 
-_Add app screenshots here._
+<img width="470" height="1100" alt="ai-hubster screenshot" src="https://github.com/user-attachments/assets/43421f04-ae7b-4c8d-b457-62d5c900d776" />
 
----
 
 ## 👨‍💻 Author
 
