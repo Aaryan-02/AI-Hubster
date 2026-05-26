@@ -1,50 +1,107 @@
-# Welcome to your Expo app 👋
+# 🤖 Hubster AI
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Hubster AI is a full-stack AI-powered mobile assistant platform built with React Native Expo. It provides multiple specialized AI assistants and allows users to create custom AI agents tailored to their personal needs.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Features
 
-   ```bash
-   npm install
-   ```
+- 🧠 Multiple AI Assistants
+  - Fitness Coach
+  - Writing Assistant
+  - Caption Generator
+  - Math Solver
+  - Productivity Assistant
+  - And more...
 
-2. Start the app
+- 🛠️ Custom AI Agents
+  - Users can create their own personalized AI assistants.
 
-   ```bash
-   npx expo start
-   ```
+- 🔐 Authentication
+  - Google Authentication using Clerk
 
-In the output, you'll find options to open the app in a
+- ☁️ Backend & Database
+  - Firebase Integration
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- 📱 Cross Platform
+  - Built with React Native Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 🧰 Tech Stack
 
-When you're ready, run:
+- React Native Expo
+- Firebase
+- Clerk Authentication
+- Google SSO
+- TypeScript / JavaScript
+
+---
+
+## 📦 Installation
+
+Clone the repository:
 
 ```bash
-npm run reset-project
+git clone YOUR_REPOSITORY_URL
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Navigate to the project folder:
 
-## Learn more
+```bash
+cd YOUR_PROJECT_NAME
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+Install dependencies:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+npm install
+```
 
-## Join the community
+Start the Expo development server:
 
-Join our community of developers creating universal apps.
+```bash
+npx expo start
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+## 🔑 Environment Variables
+
+Create a `.env` file and add your credentials:
+
+```env
+EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=your_key
+EXPO_PUBLIC_FIREBASE_API_KEY=your_key
+EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN=your_domain
+EXPO_PUBLIC_FIREBASE_PROJECT_ID=your_project_id
+EXPO_PUBLIC_FIREBASE_STORAGE_BUCKET=your_bucket
+EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+EXPO_PUBLIC_FIREBASE_APP_ID=your_app_id
+```
+
+---
+
+## 📲 APK Download
+
+Download the latest APK here:
+
+https://expo.dev/accounts/aaryan02/projects/ai-pocket-agent/builds/5a8da43c-4c4f-4741-afc9-d59841dce783
+
+---
+
+## 📸 Screenshots
+
+_Add app screenshots here._
+
+---
+
+## 👨‍💻 Author
+
+Aaryan
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
